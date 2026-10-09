@@ -66,4 +66,4 @@ web/app project
 
 https://paquibojm5-stack.github.io/JOMARJOHNPAQUIBO_PORTFOLIO/#home
 
-https://paquibojm5-stack.github.io/ERECPASS-/?utm_source=chatgpt.com
+https://jomarportfolio.github.io/ERECPASS-/
