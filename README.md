@@ -47,6 +47,10 @@ Git & GitHub
 VS Code
 
 🚀 Projects
+https://paquibojm5-stack.github.io/JOMARJOHNPAQUIBO_PORTFOLIO/#home
+
+https://jomarportfolio.github.io/ERECPASS-/
+
 
 Automatic wire cutter machine
 
@@ -61,9 +65,3 @@ Education bachelor of Science in n Computer engineering
 ICCT COLLEGE'S
 
 📬 Contact GitHub: LinkedIn: Email: jomarjohnpaquibo7@gmail.com
-
-web/app project
-
-https://paquibojm5-stack.github.io/JOMARJOHNPAQUIBO_PORTFOLIO/#home
-
-https://jomarportfolio.github.io/ERECPASS-/
